@@ -1,4 +1,4 @@
-## [LIVE](https://kierxin.github.io/The-Coolony-Game/)
+## [LIVE](https://kierxin.github.io/The-Coolony-Game-2021/)
 (Project Status: Work in Progress)
 
 # The-Coolony-Game
